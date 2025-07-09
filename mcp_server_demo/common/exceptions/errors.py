@@ -9,4 +9,5 @@ class McpPrimitiveImportError(ModuleNotFoundError):
                          '\t\t\t\t\t\ttools/\n'
                          '\t\t\t\t\t\t\t__init__.py  <- Must import all implemented CustomTool classes here\n'
                          '\t\t\t\t\t\tserver.py'
+                         '\t\t\t\t\t\t__init__.py'
                          '\033[0m')
